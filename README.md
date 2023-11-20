@@ -1,5 +1,5 @@
 # FinanceDashboard
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license) [![Work in Progress](https://img.sheilds.io/badge/WorkInProgress-green.svg)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license) [![Work in Progress](https://img.sheilds.io/badge/Work_In_Progress-green.svg)]
 
 A dashboard to view financial information using the MERN stack.  
 
